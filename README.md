@@ -256,7 +256,3 @@ React UI Update
 B.Tech Computer Science Engineering
 
 ---
-
-# ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
